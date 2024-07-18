@@ -1,7 +1,7 @@
 # Software implementations of Multiplication gadgets in C and Assembly
 This project is funded by the ERC via SEAL grant, and is maintained by Nima Mahdion. 
 
-Traces can be downloade from [Data set (traces) for Software implementations of Multiplication Gadgets: SEAL
+Traces can be downloaded from [Data set (traces) for Software implementations of Multiplication Gadgets: SEAL
 ](https://zenodo.org/records/10838182).
 
 ---
