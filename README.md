@@ -614,7 +614,7 @@ Setting variable $order = 1$ or $2$: first/second-order uni-variate T-test
 
 
 # Acknowledgement
-The SEAL adaption has received funding from the European Research Council (ERC) under the European Union’s
-Horizon 2020 research and innovation programme (grant agreement No 725042).
+This research was funded by the European Research Council (ERC) under the European Union’s
+Horizon 2020 research and innovation programme (grant agreement No 72504, SEAL).
 
 ![EU Logo](LOGO_ERC-FLAG_EU.jpg "ERC")
