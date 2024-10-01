@@ -1,6 +1,6 @@
 # Software implementations of Multiplication gadgets in C and Assembly
-This project focuses on developing and analyzing (leakage detection using t-test) software implementations of multiplication gadgets in Assembly (and C), specifically targeting ARM Cortex-M3 microprocessors. It is supported by the European Research Council (ERC) through the SEAL grant and is maintained by Nima Mahdion.
-Power consumption traces for these analyzes can be accessed from [Data set (traces) for Software implementations of Multiplication Gadgets: SEAL
+This repository provides materials (Assebmly sources, and analysis scripts) for the paper ``Efficiently Detecting Masking Flaws in Software Implementations'' (co-authored by Nima Mahdion and Elisabeth Oswald).
+The ower traces that we utlised are archived via Zenodo and can be accessed from [Data set (traces) for Software implementations of Multiplication Gadgets: SEAL
 ](https://zenodo.org/records/10838182).
 
 ---
