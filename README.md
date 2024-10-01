@@ -1,5 +1,5 @@
 # Software implementations of Multiplication gadgets in C and Assembly
-This repository provides materials (Assebmly sources, and analysis scripts) for the paper ``Efficiently Detecting Masking Flaws in Software Implementations'' (co-authored by Nima Mahdion and Elisabeth Oswald).
+This repository provides materials (Assembly sources, and analysis scripts) for the paper ``Efficiently Detecting Masking Flaws in Software Implementations'' (co-authored by Nima Mahdion and Elisabeth Oswald).
 The ower traces that we utlised are archived via Zenodo and can be accessed from [Data set (traces) for Software implementations of Multiplication Gadgets: SEAL
 ](https://zenodo.org/records/10838182).
 
