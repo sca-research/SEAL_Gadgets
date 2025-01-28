@@ -382,6 +382,6 @@ if __name__ == '__main__':
     ser = serial.Serial(port)
     # The number of running the program
     num = 100
-    # uart(ser, num_repeat, Mask_ORD, gadget_name)
+    # uart(ser, num_repeat, n_share, gadget_name)
     # gadget_name = ["isw", "bbpp", "dom_indep", "hpc1_opt", "pini1", "pini2", "dom_dep"]
     uart(ser, num, 4, "hpc1_opt")
